@@ -1,0 +1,20 @@
+body {
+    background-color: mintcream;
+    line-height: 28px;
+    text-align: center;
+}
+
+h1 {
+    color: dimgray;
+    font-weight: bold;
+    font-family: "Roboto Slab";
+    font-size: 45px;
+}
+
+h2 {
+    margin:0;
+    color: dimgray;
+    padding: 20px;
+    font-size: 24px;
+    font-family: "Avenir Next";
+ }

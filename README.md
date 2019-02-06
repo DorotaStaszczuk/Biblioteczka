@@ -7,5 +7,6 @@ Work in progress
 	
 ## Technologies
 Project is created with:
-* HTML
 * JavaScript
+* HTML
+* CSS
